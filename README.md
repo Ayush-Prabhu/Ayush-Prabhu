@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![An image of @ayushprabhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushprabhu)](https://holopin.io/@ayushprabhu)
 <!--
 **Ayush-Prabhu/Ayush-Prabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
